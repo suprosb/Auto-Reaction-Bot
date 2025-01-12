@@ -4,11 +4,11 @@
     "repository": "https://github.com/Malith-Rukshan/Auto-Reaction-Bot",
     "env": {
       "BOT_TOKEN": {
-        "description": "The Telegram bot token (Generate from BotFather)",
+        "description": "7647540791:AAHOgQc7VlNJtgkyBK6VpQ631LE3dHr5rxQ",
         "required": true
       },
       "BOT_USERNAME": {
-        "description": "The username you have set for your bot.",
+        "description": "auto_reaction_bd_bot",
         "required": true
       },
       "EMOJI_LIST": {
